@@ -1,0 +1,50 @@
+/*index file*/
+* {
+    padding: 5px;
+}
+
+body {
+    background-color: black;
+    color: rgb(255, 251, 251);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: 5px;
+    height: 400px;
+    width: 450px;
+    border-radius: 25px;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    display: block;
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+a {    
+    display: block;
+}
+
+a:hover {
+    color: rgb(238, 147, 104);
+}
+
+
+
